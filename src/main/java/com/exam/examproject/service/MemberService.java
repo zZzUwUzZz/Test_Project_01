@@ -1,6 +1,6 @@
-package service;
+package com.exam.examproject.service;
 
-import Repository.memberRepository;
+import com.exam.examproject.Repository.memberRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

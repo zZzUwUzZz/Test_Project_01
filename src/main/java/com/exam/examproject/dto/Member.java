@@ -1,4 +1,4 @@
-package dto;
+package com.exam.examproject.dto;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.tool.schema.spi.SchemaTruncator;
